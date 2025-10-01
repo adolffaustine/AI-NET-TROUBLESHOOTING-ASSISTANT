@@ -9,3 +9,8 @@ proactively monitor, diagnose, and resolve network issues across both FTTH (Fibe
 the Home) and Enterprise environments. It’s not just a tool for internal use—it’s a 
 scalable product that can be offered to other companies, regardless of their internet 
 provider, to enhance their IT support and network reliability.
+
+
+
+
+Create .env file which contains GEMINI API KEY and name your API Key as GEMINI_API_KEY = ..... and place the file in Troubleshooting app
